@@ -12,6 +12,6 @@ def fetch_posts():
 
     return posts
 
-
+#Hiiiiii created
 if __name__ == "__main__":
     fetch_posts()
